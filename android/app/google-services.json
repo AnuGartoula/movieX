@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937332773772",
+    "project_id": "moviex-efaed",
+    "storage_bucket": "moviex-efaed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937332773772:android:8b4fdd6b7028866a26bca9",
+        "android_client_info": {
+          "package_name": "com.example.movie_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBubDPJWyGoPMHHZkMNkRg6pvPsmHUEx1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
